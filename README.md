@@ -1,2 +1,2 @@
 # Database-
-This is an entity diagram on Restaurant Management System
+This is an entity diagram on Food Factory Management System
